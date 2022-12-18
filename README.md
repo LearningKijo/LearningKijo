@@ -10,10 +10,15 @@ I’m @LearningKijo and mostly I am going to share KQL and malware analysis topi
 # Malware analysis
       - Statis analysis
       - Dynamic analysis
-      - Reverse engineering
-```
+      - Reverse engineering     
+# Skill
 
-<!---
-LearningKijo/LearningKijo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+let MicrosoftProducts = (id: int, value: string)
+[
+      1, "Microsoft Defender for Endpoints", 
+      2, "Microsoft Defender for Office 365", 
+      3, "Microsoft Defender for Cloud Apps", 
+      4, "Microsoft Defender for Identity", 
+      5, "Microsoft Defender Antivirus", 
+      6, "Microsoft Sentinel"
+];
