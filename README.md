@@ -10,7 +10,8 @@ I’m @LearningKijo and mostly I am going to share KQL and malware analysis topi
 # Malware analysis
       - Statis analysis
       - Dynamic analysis
-      - Reverse engineering     
+      - Reverse engineering 
+      
 # Skill
 
 let MicrosoftProducts = (id: int, value: string)
