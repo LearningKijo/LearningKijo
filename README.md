@@ -1,14 +1,17 @@
-👋 Hi, I’m @LearningKijo <br>
-🌱 In @LearningKijo, mostly I am going to share KQL and malware analysis topics. <br>
+## Hi there 👋 Thank you for visiting @LearningKijo
+
+I’m @LearningKijo and mostly I am going to share KQL and malware analysis topics. <br>
+
+#### Here is my focus <br>
 ```
-Here is my focus
-　#Kusto query language(KQL) 
-　#Cyberattack - APT29, AiTM, Ransomeware 
-　#Malware analysis
-     - Statis analysis
-         - Dynamic analysis
-             - Reverse engineering
- ```
+# Kusto query language(KQL) 
+# Cyberattack - APT29, AiTM, Ransomeware
+# Microsoft Security solution <Defenders> against cyberattack
+# Malware analysis
+      - Statis analysis
+      - Dynamic analysis
+      - Reverse engineering
+```
 
 <!---
 LearningKijo/LearningKijo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
