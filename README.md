@@ -12,9 +12,8 @@ I’m @LearningKijo and mostly I am going to share KQL and malware analysis topi
       - Dynamic analysis
       - Reverse engineering 
       
-# Skill
-
-let MicrosoftProducts = (id: int, value: string)
+# Experience
+let MicrosoftProducts = datatable(id: int, value: string)
 [
       1, "Microsoft Defender for Endpoints", 
       2, "Microsoft Defender for Office 365", 
@@ -23,3 +22,5 @@ let MicrosoftProducts = (id: int, value: string)
       5, "Microsoft Defender Antivirus", 
       6, "Microsoft Sentinel"
 ];
+MicrosoftProducts
+| project id, value
