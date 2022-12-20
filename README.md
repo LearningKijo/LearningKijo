@@ -27,7 +27,5 @@ MicrosoftProducts
 
 ```
 
-<br>
 #### Disclaimer 
-<br>
 The views and opinions expressed herein are those of the author and do not necessarily reflect the views of company.
