@@ -1,6 +1,11 @@
 ## Hi there 👋 Thank you for visiting @LearningKijo
+<a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/"><img src="https://img.shields.io/badge/Azure-KQL-00B2FF.svg?logo=microsoftazure&style=popout"></a>
+<a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/"><img src="https://img.shields.io/badge/Azure%20Data%20Explorer-%230078D4.svg?&style=popout&logo=azure%20data%20explorer&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kijo-niimura/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=popout"></a>
 
-I’m @LearningKijo and mostly I am going to share KQL and malware analysis topics. <br>
+I’m @LearningKijo and I am mainly going to cover two topics: 1) KQL and 2) Malware analysis.<br>
+Regarding KQL, providing KQL learning process & tips and "out-of-the-box KQL queries" for hunting advanced cyber-attacks. <br>
+In the malware analysis section, observing malware activities - basic static analysis and basic dynamic analysis.
 
 #### Here is my focus <br>
 ```
