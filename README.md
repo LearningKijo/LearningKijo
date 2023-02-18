@@ -12,6 +12,7 @@ In the malware analysis section, observing malware activities - basic static ana
 # Kusto query language(KQL) 
 # Cyberattack - APT29, AiTM, Ransomeware
 # Microsoft Security solution <Defenders> against cyberattack
+# Incident Response, API, Automation
 # Malware analysis
       - Statis analysis
       - Dynamic analysis
