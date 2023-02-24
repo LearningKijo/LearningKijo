@@ -4,8 +4,8 @@
 <a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/"><img src="https://img.shields.io/badge/Azure%20Data%20Explorer-%230078D4.svg?&style=popout&logo=azure%20data%20explorer&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/M365D-APIs-142787.svg?logo=microsoft&style=popout"> <img src="https://img.shields.io/badge/MDE-APIs-142783.svg?logo=microsoft&style=popout"> <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?&style=popout&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-FFFFFF.svg?logo=python&style=popout"> <br>
 
-I’m @LearningKijo and I am mainly going to cover two topics: 1) KQL and 2) Malware analysis.<br>
-Regarding KQL, providing KQL learning process & tips and "out-of-the-box KQL queries" for hunting advanced cyber-attacks. <br>
+I’m @LearningKijo and I am mainly going to cover two topics: 1) KQL and 2) Malware analysis.
+Regarding KQL, providing KQL learning process & tips and "out-of-the-box KQL queries" for hunting advanced cyber-attacks. 
 In the malware analysis section, observing malware activities - basic static analysis and basic dynamic analysis.
 
 #### Here is my focus <br>
