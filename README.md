@@ -11,6 +11,8 @@ In the malware analysis section, observing malware activities - basic static ana
 #### Here is my focus <br>
 ```
 # Kusto query language(KQL) 
+# Python 
+# PowerShell
 # Cyberattack - APT29, AiTM, Ransomeware
 # Microsoft Security solution <Defenders> against cyberattack
 # Incident Response, API, Automation
