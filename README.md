@@ -8,11 +8,11 @@ I’m @LearningKijo and I am mainly going to cover two topics: 1) KQL and 2) Mal
 Regarding KQL, providing KQL learning process & tips and "out-of-the-box KQL queries" for hunting advanced cyber-attacks. 
 In the malware analysis section, observing malware activities - basic static analysis and basic dynamic analysis.
 
-#### Here is my focus <br>
+#### These are my focus & objective
 ```
-# Kusto query language(KQL) 
-# Python 
-# PowerShell
+# Kusto query language(KQL) - Advanced 
+# Python - intermediate
+# PowerShell - intermediate
 # Cyberattack - APT29, AiTM, Ransomeware
 # Microsoft Security solution <Defenders> against cyberattack
 # Incident Response, API, Automation
