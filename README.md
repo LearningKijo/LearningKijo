@@ -8,7 +8,13 @@ I’m @LearningKijo and I am mainly going to cover two topics: 1) KQL and 2) Mal
 Regarding KQL, providing KQL learning process & tips and "out-of-the-box KQL queries" for hunting advanced cyber-attacks. 
 In the malware analysis section, observing malware activities - basic static analysis and basic dynamic analysis.
 
-#### These are my focus & objective
+### Repository
+1. LearningKijo/[KQL](https://github.com/LearningKijo/KQL)
+2. LearningKijo/[Defender-APIs](https://github.com/LearningKijo/Defender-APIs)
+3. LearningKijo/[MSTICPy](https://github.com/LearningKijo/MSTICPy)
+4. LearningKijo/[Malware-Analysis](https://github.com/LearningKijo/Malware-Analysis)
+
+### These are my focus & objective
 ```
 # Kusto query language(KQL) - Advanced 
 # Python - intermediate
@@ -35,6 +41,8 @@ MicrosoftProducts
 | project id, value
 
 ```
+
+
 
 #### Disclaimer 
 The views and opinions expressed herein are those of the author and do not necessarily reflect the views of company.
