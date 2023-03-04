@@ -1,11 +1,7 @@
 ## Hi there 👋 Thank you for visiting @LearningKijo
+I'm @LearningKijo, and my content will focus on two topics: KQL and malware analysis. For KQL, I'll provide learning resources and tips, along with "out-of-the-box KQL queries" for advanced cyber attack hunting. In the malware analysis section, I'll cover basic static and dynamic analysis to observe malware activities.
 
-
-I’m @LearningKijo and I am mainly going to cover two topics: 1) KQL and 2) Malware analysis.
-Regarding KQL, providing KQL learning process & tips and "out-of-the-box KQL queries" for hunting advanced cyber-attacks. 
-In the malware analysis section, observing malware activities - basic static analysis and basic dynamic analysis.
-
-### Repository
+## Repository
 1. LearningKijo/[KQL](https://github.com/LearningKijo/KQL)
 2. LearningKijo/[Defender-APIs](https://github.com/LearningKijo/Defender-APIs)
 3. LearningKijo/[MSTICPy](https://github.com/LearningKijo/MSTICPy)
