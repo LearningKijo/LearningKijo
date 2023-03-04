@@ -39,7 +39,6 @@ let MicrosoftProducts = datatable(id: int, value: string)
 ];
 MicrosoftProducts
 | project id, value
-
 ```
 
 
