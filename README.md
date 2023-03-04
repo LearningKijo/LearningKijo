@@ -21,13 +21,13 @@ In the malware analysis section, observing malware activities - basic static ana
 # Kusto query language(KQL) - Advanced 
 # Python - intermediate
 # PowerShell - intermediate
+# API, RestAPI
 # Cyberattack - APT29, AiTM, Ransomeware
 # Microsoft Security solution <Defenders> against cyberattack
-# Incident Response, API, Automation
+# Incident Response, Automation, Threat Hunting
 # Malware analysis
       - Statis analysis
       - Dynamic analysis
-      - Reverse engineering 
       
 # Experience
 let MicrosoftProducts = datatable(id: int, value: string)
@@ -36,7 +36,7 @@ let MicrosoftProducts = datatable(id: int, value: string)
       2, "Microsoft Defender for Office 365", 
       3, "Microsoft Defender for Cloud Apps", 
       4, "Microsoft Defender for Identity", 
-      5, "Microsoft Defender Antivirus", 
+      5, "Microsoft 365 Defender", 
       6, "Microsoft Sentinel"
 ];
 MicrosoftProducts
