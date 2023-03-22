@@ -5,7 +5,7 @@ I'm @LearningKijo, and my content will focus on two topics: KQL and malware anal
 1. LearningKijo/[KQL](https://github.com/LearningKijo/KQL)
 2. LearningKijo/[Defender-APIs](https://github.com/LearningKijo/Defender-APIs)
 3. LearningKijo/[MSTICPy](https://github.com/LearningKijo/MSTICPy)
-4. LearningKijo/[Malware-Analysis](https://github.com/LearningKijo/Malware-Analysis)
+4. LearningKijo/[SecurityResearcher-Note](https://github.com/LearningKijo/SecurityResearcher-Note)
 
 ## Expertise & Language
 <a href="https://www.linkedin.com/in/kijo-niimura/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=popout"></a>
