@@ -1,7 +1,7 @@
 ## Hi there 👋 Thank you for visiting @LearningKijo
 I'm @LearningKijo, and my content will focus on two topics: KQL and malware analysis. For KQL, I'll provide learning resources and tips, along with "out-of-the-box KQL queries" for advanced cyber attack hunting. In the malware analysis section, I'll cover basic static and dynamic analysis to observe malware activities.
 
-![image](https://user-images.githubusercontent.com/120234772/226846312-22db555b-1bc7-4e8f-a040-a76814a66d66.png)
+![image](https://user-images.githubusercontent.com/120234772/227475947-90ac2518-cfd1-438a-90e1-c7667cd0fc3e.png)
 
 
 ## Repository
