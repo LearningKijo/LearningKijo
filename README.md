@@ -1,5 +1,5 @@
 ## Hi there 👋 Thank you for visiting @LearningKijo
-I'm @LearningKijo, and my content will focus on two topics: KQL and malware analysis. For KQL, I'll provide learning resources and tips, along with "out-of-the-box KQL queries" for advanced cyber attack hunting. In the malware analysis section, I'll cover basic static and dynamic analysis to observe malware activities.
+I'm @LearningKijo, and my content will focus on two topics: KQL and cybersecurity research. For KQL, I'll provide learning resources and tips, along with 'out-of-the-box KQL queries' for advanced cyber attack hunting. In the cybersecurity research section, I'll cover a wide range of topics such as attack insights, recent breaches, vulnerabilities, advanced KQL, malware analysis, and more.
 
 ![image](https://github.com/LearningKijo/LearningKijo/assets/120234772/8bc41545-7264-4f5b-8b6a-1243a75e49c4)
 
@@ -7,8 +7,9 @@ I'm @LearningKijo, and my content will focus on two topics: KQL and malware anal
 ## Repository
 1. LearningKijo/[KQL](https://github.com/LearningKijo/KQL)
 2. LearningKijo/[SecurityResearcher-Note](https://github.com/LearningKijo/SecurityResearcher-Note)
-3. LearningKijo/[MSTICPy](https://github.com/LearningKijo/MSTICPy)
-4. LearningKijo/[Defender-APIs](https://github.com/LearningKijo/Defender-APIs)
+
+## Microsoft Security Blog (LearningKijo)
+- Jul 31 2023, [AiTM & BEC threat hunting with KQL](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/aitm-amp-bec-threat-hunting-with-kql/ba-p/3885166)
 
 ## Expertise & Language
 <a href="https://www.linkedin.com/in/kijo-niimura/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=popout"></a>
