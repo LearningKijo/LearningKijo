@@ -1,4 +1,4 @@
-## Hi there 👋 Thank you for visiting @LearningKijo
+# Hi there 👋 Thank you for visiting @LearningKijo
 I'm @LearningKijo, and my content will focus on two topics: KQL and cybersecurity research. For KQL, I'll provide learning resources and tips, along with 'out-of-the-box KQL queries' for advanced cyber attack hunting. In the cybersecurity research section, I'll cover a wide range of topics such as attack insights, recent breaches, vulnerabilities, advanced KQL, malware analysis, and more.
 
 ![image](https://github.com/LearningKijo/LearningKijo/assets/120234772/8bc41545-7264-4f5b-8b6a-1243a75e49c4)
