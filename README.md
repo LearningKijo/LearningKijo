@@ -8,8 +8,14 @@ I'm @LearningKijo, and my content will focus on two topics: KQL and cybersecurit
 1. LearningKijo/[KQL](https://github.com/LearningKijo/KQL)
 2. LearningKijo/[SecurityResearcher-Note](https://github.com/LearningKijo/SecurityResearcher-Note)
 
-## Microsoft Security Blog (LearningKijo)
+## Speaker & Blogs
+#### Microsoft Security Blog 
+
 - Jul 31 2023, [AiTM & BEC threat hunting with KQL](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/aitm-amp-bec-threat-hunting-with-kql/ba-p/3885166)
+
+#### Microsoft 365 Defender Virtual Ninja Training
+- November 6 2023, [Advanced Hunting & Data visualization in Microsoft 365 Defender](https://www.youtube.com/watch?v=2jSqr-nzWn8&ab_channel=MicrosoftSecurityCommunity)
+
 
 ## Expertise & Language
 <a href="https://www.linkedin.com/in/kijo-niimura/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=popout"></a>
