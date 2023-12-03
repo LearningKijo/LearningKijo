@@ -1,12 +1,13 @@
 # Hi there 👋 Thank you for visiting @LearningKijo
-I'm @LearningKijo, and my content will focus on two topics: KQL and cybersecurity research. For KQL, I'll provide learning resources and tips, along with 'out-of-the-box KQL queries' for advanced cyber attack hunting. In the cybersecurity research section, I'll cover a wide range of topics such as attack insights, recent breaches, vulnerabilities, advanced KQL, malware analysis, and more.
+I'm @LearningKijo, and my content will delve into three main topics: KQL, insightful out-of-the-box queries, and product & security research notes.
+
+#### Repository
+1. LearningKijo/[KQL](https://github.com/LearningKijo/KQL)
+2. LearningKijo/[SecurityResearch-Note](https://github.com/LearningKijo/SecurityResearcher-Note)
+3. LearningKijo/[ProductResearch-Note](https://github.com/LearningKijo/SecurityResearcher-Note#product-research-note)
+
 
 ![image](https://github.com/LearningKijo/LearningKijo/assets/120234772/8bc41545-7264-4f5b-8b6a-1243a75e49c4)
-
-
-## Repository
-1. LearningKijo/[KQL](https://github.com/LearningKijo/KQL)
-2. LearningKijo/[SecurityResearcher-Note](https://github.com/LearningKijo/SecurityResearcher-Note)
 
 ## Speaker & Blogs
 #### Microsoft Security Blog 
