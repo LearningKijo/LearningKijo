@@ -12,11 +12,13 @@ I'm @LearningKijo, and my content will delve into three main topics: KQL, insigh
 ## Speaker & Blogs
 #### Microsoft Security Blog 
 
-- Jul 31 2023, [AiTM & BEC threat hunting with KQL](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/aitm-amp-bec-threat-hunting-with-kql/ba-p/3885166)
+- July 31 2023, [AiTM & BEC threat hunting with KQL](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/aitm-amp-bec-threat-hunting-with-kql/ba-p/3885166)
 
 #### Microsoft 365 Defender Virtual Ninja Training
 - November 6 2023, [Advanced Hunting & Data visualization in Microsoft 365 Defender](https://www.youtube.com/watch?v=2jSqr-nzWn8&ab_channel=MicrosoftSecurityCommunity)
 
+#### Microsoft Security Insights
+- December 15 2023, [Microsoft Security Insights Show Episode 182 - Kijo](https://www.youtube.com/live/AbcNOPiYE_A?si=6pZ9LLV_b_dzOEf8)
 
 ## Expertise & Language
 <a href="https://www.linkedin.com/in/kijo-niimura/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=popout"></a>
