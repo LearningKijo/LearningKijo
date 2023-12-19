@@ -1,4 +1,4 @@
-# Hi there 👋 Thank you for visiting @LearningKijo
+# Thank you for visiting @LearningKijo
 I'm @LearningKijo, and my content will delve into three main topics: KQL, insightful out-of-the-box queries, and product & security research notes.
 
 #### Repository
