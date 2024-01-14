@@ -1,4 +1,7 @@
 # Thank you for visiting @LearningKijo
+<a href="https://twitter.com/kj_ninja25"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/kj_ninja25"></a>
+<a href="https://www.linkedin.com/in/kijo-niimura/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=popout"></a>
+
 I'm @LearningKijo, and my content will delve into three main topics: KQL, insightful out-of-the-box queries, and product & security research notes.
 
 #### Repository
