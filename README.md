@@ -13,6 +13,7 @@ I'm @LearningKijo, and my content will delve into three main topics: KQL, insigh
 2. LearningKijo/[SecurityResearch-Note](https://github.com/LearningKijo/SecurityResearcher-Note)
 3. LearningKijo/[ProductResearch-Note](https://github.com/LearningKijo/SecurityResearcher-Note#product-research-note)
 4. LearningKijo/[MDEtester](https://github.com/LearningKijo/MDEtester)
+5. LearningKijo/[ResearchDev](https://github.com/LearningKijo/ResearchDev/tree/main)
 
 
 ![image](https://github.com/LearningKijo/LearningKijo/assets/120234772/8bc41545-7264-4f5b-8b6a-1243a75e49c4)
