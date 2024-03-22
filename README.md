@@ -56,6 +56,8 @@ MicrosoftProducts
 | project id, value
 ```
 
+#### [View my verified badges](https://github.com/LearningKijo/LearningKijo/blob/main/LearningHistory.md#view-my-verified-badges)
+![image](https://github.com/LearningKijo/LearningKijo/assets/120234772/6449b210-8c10-45a7-8f46-dd85100be080)
 
 
 #### Disclaimer 
