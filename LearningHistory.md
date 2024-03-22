@@ -1,6 +1,9 @@
 # Learning History
 ##### View my verified badges
 <!--START_SECTION:badges-->
+[![CompTIA Cloud Essentials Certification](https://images.credly.com/size/130x130/images/25ccadc1-df72-4405-81cc-7799b7083f17/CompTIA_CloudEss.png)](https://www.credly.com/badges/3b52860b-96b1-4939-a69e-8f92ee9ad528)
+[![CompTIA Security+ ce Certification](https://images.credly.com/size/130x130/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/0dd9ac67-ef5f-4216-9eb2-270bf03de33c)
+[![OpenHack: Security, Compliance, and Identity](https://images.credly.com/size/130x130/images/772811b6-ba72-4637-8104-a6a9ca08acc2/SCI_Challange_Complete_OpenHack_600X600.png)](https://www.credly.com/badges/5ab4e072-703d-482a-b248-9ec0f6112475)
 [![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/130x130/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](https://www.credly.com/badges/28cb553c-cf4c-4144-87cf-3ea32e8c1e68)
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/130x130/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/fc107094-ac9c-4e93-8a9c-9fdedfe91674)
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/130x130/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/badges/6788209f-400e-4a55-b4d9-3f5dc97316b6)
@@ -12,7 +15,17 @@
 [![Microsoft Certified: Identity and Access Administrator Associate](https://images.credly.com/size/130x130/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png)](https://www.credly.com/badges/06633c07-8e98-44d6-99f3-196f8e501403)
 [![Microsoft Certified: Information Protection Administrator Associate](https://images.credly.com/size/130x130/images/c36c96ec-5e83-4a77-868d-aca5e757cb92/information-protection-administrator-associate-600x600.png)](https://www.credly.com/badges/434795aa-4873-4d7f-9ceb-ed6b377a01b6)
 [![Microsoft 365 Certified: Enterprise Administrator Expert](https://images.credly.com/size/130x130/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png)](https://www.credly.com/badges/7e4c4e0f-6f4d-4263-8967-4ab37b850070)
+[![Kusto Detective Agency - Onboarding](https://images.credly.com/size/130x130/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png)](https://www.credly.com/badges/d1cbc094-f33c-4ee3-8f1a-45e1d24403c9)
+[![New Kusto Detective!](https://images.credly.com/size/130x130/images/1e07abc3-dc08-4320-af38-43824afc659d/image.png)](https://www.credly.com/badges/1ef1ca92-cbcb-4de3-a1a1-96d6ef5fa9d6)
 [![Kusto Detective Agency SANS Holiday Hack 2023 – Onboarding](https://images.credly.com/size/130x130/images/83cfed30-9089-4f80-9508-73eba174be96/image.png)](https://www.credly.com/badges/2c14877f-63d3-44dc-97cc-3362c8ea2348)
 [![New Rank: Principal Cyber Detective](https://images.credly.com/size/130x130/images/de3881e3-5791-4ded-819e-7f59e677a4ed/image.png)](https://www.credly.com/badges/471738fb-db37-4abd-99d8-642b0ac37baa)
-
+[![Kusto Detective Agency - Case #1 Badge](https://images.credly.com/size/130x130/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png)](https://www.credly.com/badges/a25c11c9-dd77-4792-b951-2c410756bb7e)
+[![Kusto Detective Agency - Case #2 Badge](https://images.credly.com/size/130x130/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png)](https://www.credly.com/badges/6e5c1cb0-2fe1-48be-9d8b-f53d658bb6b3)
+[![New Rank: Kusto Detective I](https://images.credly.com/size/130x130/images/304d7409-3dd5-40b6-ab20-88d3ec012eb1/image.png)](https://www.credly.com/badges/02b25b59-0e59-4d3f-a133-071c803a7663)
+[![New Rank: Kusto Detective II](https://images.credly.com/size/130x130/images/8fc10fee-7b05-4b86-8504-01abf614bcac/image.png)](https://www.credly.com/badges/934927ac-2f43-4eda-a627-e9be9fa9e3e1)
+[![New Rank: Kusto Detective III](https://images.credly.com/size/130x130/images/27c40e7b-98b2-4312-b52c-4454f6c90c52/image.png)](https://www.credly.com/badges/cb94c5c9-29e8-4130-be45-56d1c1983373)
+[![New Rank: Senior Kusto Detective](https://images.credly.com/size/130x130/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png)](https://www.credly.com/badges/e916787f-e4af-4d45-9895-c4a8a43020da)
+[![Foundations of Breach & Attack Simulation](https://images.credly.com/size/130x130/images/af2c22ad-233c-481c-bab9-e7cbc1596e71/Foundations_of_BAS_Badge.png)](https://www.credly.com/badges/d83fd1e3-3331-43f2-9ec5-db03b40c5db0)
+[![Foundations of Operationalizing MITRE ATT&CK](https://images.credly.com/size/130x130/images/466bf45d-c48d-46c3-a613-fd950d1dd9f9/Foundations_of_MITRE_ATT_CK_Badge.png)](https://www.credly.com/badges/a3ececb2-307e-46e1-a836-9d0ea553fc39)
+[![Introduction to EASY Framework for Threat Intelligence](https://images.credly.com/size/130x130/images/520816ca-7acb-4bdc-b03e-31185a6285b0/Introduction_to_the_EASY_Framework.png)](https://www.credly.com/badges/40388ec4-f59f-41d2-ba1d-2ba93d026cad)
 <!--END_SECTION:badges-->
