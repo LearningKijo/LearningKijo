@@ -28,4 +28,5 @@
 [![Foundations of Breach & Attack Simulation](https://images.credly.com/size/130x130/images/af2c22ad-233c-481c-bab9-e7cbc1596e71/Foundations_of_BAS_Badge.png)](https://www.credly.com/badges/d83fd1e3-3331-43f2-9ec5-db03b40c5db0)
 [![Foundations of Operationalizing MITRE ATT&CK](https://images.credly.com/size/130x130/images/466bf45d-c48d-46c3-a613-fd950d1dd9f9/Foundations_of_MITRE_ATT_CK_Badge.png)](https://www.credly.com/badges/a3ececb2-307e-46e1-a836-9d0ea553fc39)
 [![Introduction to EASY Framework for Threat Intelligence](https://images.credly.com/size/130x130/images/520816ca-7acb-4bdc-b03e-31185a6285b0/Introduction_to_the_EASY_Framework.png)](https://www.credly.com/badges/40388ec4-f59f-41d2-ba1d-2ba93d026cad)
+[![Copilot for M365 Achiever Badge - Foundational](https://images.credly.com/size/130x130/images/428e20f1-60eb-4a21-8658-aa92c03ed1c7/image.png)](https://www.credly.com/badges/e9f4f50c-749c-4756-afd2-4b8fb884f0e6)
 <!--END_SECTION:badges-->
