@@ -30,4 +30,5 @@
 [![Introduction to EASY Framework for Threat Intelligence](https://images.credly.com/size/130x130/images/520816ca-7acb-4bdc-b03e-31185a6285b0/Introduction_to_the_EASY_Framework.png)](https://www.credly.com/badges/40388ec4-f59f-41d2-ba1d-2ba93d026cad)
 [![Copilot for M365 Achiever Badge - Foundational](https://images.credly.com/size/130x130/images/428e20f1-60eb-4a21-8658-aa92c03ed1c7/image.png)](https://www.credly.com/badges/e9f4f50c-749c-4756-afd2-4b8fb884f0e6)
 [![Copilot for Security | Technical Skills Achiever Badge](https://images.credly.com/size/130x130/images/ca111b9f-6fc7-4563-a5d4-7edb6901810e/image.png)](https://www.credly.com/badges/41891020-8089-429b-a457-f6c98f697be5)
+[![Copilot for Security | Sales Skills Achiever Badge](https://images.credly.com/size/130x130/images/b471a894-a0c4-4599-b161-ac3d8bc0bc71/image.png)](https://www.credly.com/earner/earned/badge/9effafad-af81-431d-837c-ba506eff716e)
 <!--END_SECTION:badges-->
