@@ -57,8 +57,7 @@ MicrosoftProducts
 ```
 
 #### [View my verified badges](https://github.com/LearningKijo/LearningKijo/blob/main/LearningHistory.md#view-my-verified-badges)
-![image](https://github.com/LearningKijo/LearningKijo/assets/120234772/6449b210-8c10-45a7-8f46-dd85100be080)
-
+![image](https://github.com/LearningKijo/LearningKijo/assets/120234772/6c4fed08-a0d0-4075-b3c9-a6c2c139f252)
 
 #### Disclaimer 
 The views and opinions expressed herein are those of the author and do not necessarily reflect the views of company.
