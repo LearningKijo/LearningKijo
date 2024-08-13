@@ -18,16 +18,16 @@ I'm @LearningKijo, and my content will delve into three main topics: KQL, insigh
 
 ![image](https://github.com/LearningKijo/LearningKijo/assets/120234772/8bc41545-7264-4f5b-8b6a-1243a75e49c4)
 
-## Speaker & Blogs
-#### Microsoft Security Blog 
-
+### Blog 
 - July 31 2023, [AiTM & BEC threat hunting with KQL](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/aitm-amp-bec-threat-hunting-with-kql/ba-p/3885166)
 
-#### Microsoft 365 Defender Virtual Ninja Training
-- November 6 2023, [Advanced Hunting & Data visualization in Microsoft 365 Defender](https://www.youtube.com/watch?v=2jSqr-nzWn8&ab_channel=MicrosoftSecurityCommunity)
-
-#### Microsoft Security Insights
-- December 15 2023, [Microsoft Security Insights Show Episode 182 - Kijo](https://www.youtube.com/live/AbcNOPiYE_A?si=6pZ9LLV_b_dzOEf8)
+### Speaker
+- November 6 2023, Microsoft 365 Defender Virtual Ninja Training
+  - [Advanced Hunting & Data visualization in Microsoft 365 Defender](https://www.youtube.com/watch?v=2jSqr-nzWn8&ab_channel=MicrosoftSecurityCommunity)
+- December 15 2023, Microsoft Security Insights
+  - [Microsoft Security Insights Show Episode 182 - Kijo](https://www.youtube.com/live/AbcNOPiYE_A?si=6pZ9LLV_b_dzOEf8)
+- May 21 2024, Threatscape
+   - [How To Simulate Threats and Attacks in Microsoft Defender XDR](https://youtu.be/bvvIdloaRnc?si=XIlB64Nz9ejgNV8M)
 
 ## Expertise & Language
 ```kql
