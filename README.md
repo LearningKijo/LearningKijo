@@ -20,6 +20,7 @@ I'm @LearningKijo, and my content will delve into three main topics: KQL, insigh
 
 ### Blog 
 - July 31 2023, [AiTM & BEC threat hunting with KQL](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/aitm-amp-bec-threat-hunting-with-kql/ba-p/3885166)
+- Sep 23, 2024, [Detecting AiTM Phishing via 3rd-Party Network events in Unified Security Operations Platform](https://techcommunity.microsoft.com/blog/microsoftsentinelblog/detecting-aitm-phishing-via-3rd-party-network-events-in-unified-security-operati/4224653), Co-auther
 
 ### Speaker
 - November 6 2023, Microsoft 365 Defender Virtual Ninja Training
